@@ -1,7 +1,8 @@
-.d-block{
+.dd-block{
     filter: brightness(40%);
 }
-.join{
-    width: 1280px;
-    height: 300px;
+.fa-brands{
+    color: white;
+    background-color: rgb(77, 76, 76);
+    border-radius: 50%;
 }
